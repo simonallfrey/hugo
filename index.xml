@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://simonallfrey.github.io/hugo/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 13 Apr 2022 13:40:52 +0200</lastBuildDate><atom:link href="https://simonallfrey.github.io/hugo/index.xml" rel="self" type="application/rss+xml"/><item><title>$5/mo VPS on digitalocean with free domain name</title><link>https://simonallfrey.github.io/hugo/posts/my-first-post/</link><pubDate>Wed, 13 Apr 2022 13:40:52 +0200</pubDate><guid>https://simonallfrey.github.io/hugo/posts/my-first-post/</guid><description>Getting a free domain name. Wed Apr 13 09:51:38 2022
+https://my.freenom.com/domains.php
+google social sign in with simon.allfrey.france
+trick:
+Search for desired domain name without top level domain, TLD, e.g. &amp;ldquo;.ga&amp;rdquo; Do not click on the buttons on the right. Search for the desired domain name with the TLD We&amp;rsquo;ll use Freenom as a registrar, but digitalocean&amp;rsquo;s nameservers, the settings on Freenom are:
+Services-&amp;gt;My Domains-&amp;gt;Manage Domain-&amp;gt;Management Tools-&amp;gt;Nameservers-&amp;gt;Use Custom Nameservers</description></item></channel></rss>
